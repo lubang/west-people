@@ -3,9 +3,10 @@
     "auth": "동근방 (DONGGEUN, BANG)",
     "language": "ko",
     "description": "서쪽마녀 사람들의 웹 프로그래밍 스터디 발표자료와 진행기록",
-    "root": "docs/",
+    "root": "docs",
     "structure": {
       "readme": "README.md",
       "summary": "SUMMARY.md"
-    }
+    },
+    "plugins" : [ "anchors" ]
 }
