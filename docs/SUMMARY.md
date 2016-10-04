@@ -2,6 +2,7 @@
 
 ### Part I 
 
+* [서쪽마녀 사람들은](README.md)
 * [서쪽마녀 사람들 스터디, 그 시작은...](part1/members.md)
 * [우리가 앞으로 나아갈 길](part1/plan.md)
 
@@ -9,8 +10,8 @@
 
 * 1주차 - 웹 프로그래밍 is 뭔들. 내가 하고 싶은 것은!
 	* [웹 개발방법의 소개](part2/01-web-intro/introduction-web-dev.md)
- 	* [웹 서비스 디자인 방법](part2/01-web-intro/web-service-design.md)
- 	* [숙제) 나만의 웹 서비스 계획](part2/01-web-intro/web-service-plan.md)
+	* [웹 서비스 디자인 방법](part2/01-web-intro/web-service-design.md)
+	* [숙제) 나만의 웹 서비스 계획](part2/01-web-intro/web-service-plan.md)
 * 2주차 - 시작, 첫 번 째 눈에 모이는 걸 만들어보자! HTML, CSS, JAVASCRIPT
 * 3주차 - 요즘엔 사람들이 어떻게 만드냐면! npm, moduler
 * 4주차 - 그래서 우리는 FLUX 패턴 기반으로 합니다. flux
