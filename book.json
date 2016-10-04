@@ -1,5 +1,11 @@
 {
-    "title": "웹 프로그래밍 스터디",
-    "description": "웹 프로그래밍 스터디의 발표자료와 진행기",
-    "root": "./docs"
+    "title": "서쪽마녀 사람들 - 웹 프로그래밍 스터디",
+    "auth": "동근방 (DONGGEUN, BANG)",
+    "language": "ko",
+    "description": "서쪽마녀 사람들의 웹 프로그래밍 스터디 발표자료와 진행기록",
+    "root": "docs/",
+    "structure": {
+      "readme": "README.md",
+      "summary": "SUMMARY.md"
+    }
 }
