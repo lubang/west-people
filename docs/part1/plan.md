@@ -8,7 +8,7 @@
 * 2주차 - 시작, 첫 번 째 눈에 모이는 걸 만들어보자! HTML, CSS, JAVASCRIPT
 * 3주차 - 요즘엔 사람들이 어떻게 만드냐면! npm, moduler
 * 4주차 - 그래서 우리는 FLUX 패턴 기반으로 합니다. flux
-* 5주차 - 고급지게 실제 라이브러리를 써볼까? vue.js, webpack
+* 5주차 - 고급지게 실제 라이브러리를 써볼까? react.js, webpack
 * 6주차 - 웹은 멋진 charting이 진리지! nvd3, d3, three.js
 * 7주차 - 웹 서버가 필요해! I LIKE NGINX
 * 8주차 - 이젠 나만의 기능을 위해서 필요한 그대여 - 1. Backend & REST API
